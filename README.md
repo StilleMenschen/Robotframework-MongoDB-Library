@@ -1,6 +1,8 @@
 Robotframework-MongoDB-Library
 ==============================
 
+**Modified to support python3**
+
 A library for interacting with MongoDB from RobotFramework.
 
 Uses pymongo.
